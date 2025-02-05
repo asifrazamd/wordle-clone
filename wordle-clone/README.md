@@ -17,7 +17,7 @@ This is a **Wordle Clone** built with **React** and **TailwindCSS**. The goal of
 
 ## Demo
 
-You can play the Wordle Clone game here: [Insert demo URL if hosted].
+You can play the Wordle Clone game here: https://wordle-clone-ipfb.vercel.app/ .
 
 ## Installation
 
