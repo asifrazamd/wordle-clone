@@ -28,7 +28,7 @@ Follow these steps to run the Wordle clone locally:
 Clone the project to your local machine by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/wordle-clone.git
+git clone https://github.com/asifrazamd/wordle-clone/tree/main
 
 
 ### 2. Navigate to the Project Folder
